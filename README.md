@@ -10,7 +10,7 @@ I'm Koulik your average software developer with a rather uncovincing background 
 <a href="https://twitter.com/jondjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jondjones" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/101874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="101874" height="30" width="40" /></a>
 <a href="https://instagram.com/jondjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jondjones" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jondjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="jondjones" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/jondjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="jondjones" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
